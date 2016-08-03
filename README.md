@@ -1,7 +1,7 @@
 # BuildNewButton-Bootstrap-LESS-Practice
 Practice for building a new button in Bootstrap LESS
 
-# Styling Panel Bootstrap LESS Process
+# Building a New Button in Bootstrap LESS Process
 - Download Bootstrap Less File http://getbootstrap.com/
 - Use Prepros to compile less to css https://prepros.io/
 - Create a local less file styles.less and import it in bootstrap.less
